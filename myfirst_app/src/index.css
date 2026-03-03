@@ -1,0 +1,25 @@
+/* *{
+    margin: 30px auto;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+h1, p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    border: 2px solid white;
+    padding: 10px 15px;
+    border-radius: 15px;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+ */
